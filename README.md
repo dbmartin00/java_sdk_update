@@ -77,3 +77,6 @@ Use a browser to call the APIs in your ApiDemo.java
 </body>
 </html>
 ```
+
+If you change your flag (e.g. "api"), the server log will print the change as it is received.  You can use the callback to effect other behavior in your application.
+
